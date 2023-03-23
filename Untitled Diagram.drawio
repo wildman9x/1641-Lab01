@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T10:10:59.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="q1LvZ84tkxBifztDb5GH" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T10:18:26.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="fg1v1E562ga8uYAK4xKh" version="21.0.8" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="698" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1269" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -410,8 +410,8 @@
         <mxCell id="_GJ2NRxJg_3hJ979hq8P-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.083;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" parent="_GJ2NRxJg_3hJ979hq8P-35" source="_GJ2NRxJg_3hJ979hq8P-95" target="_GJ2NRxJg_3hJ979hq8P-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dHhZXid-f-7BU7orb2X_-1" value="&lt;h1&gt;Data generated&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Customer&#39;s personal information&lt;/li&gt;&lt;li&gt;Payment information/history&lt;/li&gt;&lt;li&gt;Customer&#39;s buying history&lt;/li&gt;&lt;li&gt;Book sales history&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="340" width="280" height="170" as="geometry" />
+        <mxCell id="dHhZXid-f-7BU7orb2X_-1" value="&lt;h1&gt;Data generated&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Customer&#39;s personal information&lt;/li&gt;&lt;li&gt;Payment information/history&lt;/li&gt;&lt;li&gt;Customer&#39;s buying history&lt;/li&gt;&lt;li&gt;Book sales history&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="340" width="420" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
