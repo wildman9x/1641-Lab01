@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T10:23:43.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="WPBOpTMKdc5lZKW9ha9Q" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T10:32:36.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="C4tQ-UhMADl-4EjAkkAV" version="21.0.8" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1135" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="923" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -300,17 +300,38 @@
         <mxCell id="_GJ2NRxJg_3hJ979hq8P-58" value="Assigns the membership ID to the cart" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=134;dashed=0;whiteSpace=wrap;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;strokeWidth=3;" parent="_GJ2NRxJg_3hJ979hq8P-38" vertex="1">
           <mxGeometry x="35" y="200" width="143.75" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dHhZXid-f-7BU7orb2X_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1.058;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="_GJ2NRxJg_3hJ979hq8P-38" source="_GJ2NRxJg_3hJ979hq8P-72" target="dHhZXid-f-7BU7orb2X_-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="71" y="421" />
+              <mxPoint x="45" y="421" />
+              <mxPoint x="45" y="411" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_GJ2NRxJg_3hJ979hq8P-72" value="Apply number of point to be deducted" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=134;dashed=0;whiteSpace=wrap;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;strokeWidth=3;" parent="_GJ2NRxJg_3hJ979hq8P-38" vertex="1">
           <mxGeometry x="35" y="350" width="143.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dHhZXid-f-7BU7orb2X_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.029;entryY=0.747;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="_GJ2NRxJg_3hJ979hq8P-38" source="_GJ2NRxJg_3hJ979hq8P-74" target="dHhZXid-f-7BU7orb2X_-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="45" y="460" />
+              <mxPoint x="21" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_GJ2NRxJg_3hJ979hq8P-74" value="Apply number of point to be added to membership" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=134;dashed=0;whiteSpace=wrap;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;strokeWidth=3;" parent="_GJ2NRxJg_3hJ979hq8P-38" vertex="1">
           <mxGeometry x="45" y="460" width="143.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_GJ2NRxJg_3hJ979hq8P-87" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;" parent="_GJ2NRxJg_3hJ979hq8P-38" source="_GJ2NRxJg_3hJ979hq8P-81" target="_GJ2NRxJg_3hJ979hq8P-85" edge="1">
+        <mxCell id="_GJ2NRxJg_3hJ979hq8P-87" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.248;entryY=0.208;entryDx=0;entryDy=0;strokeWidth=3;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;entryPerimeter=0;" parent="_GJ2NRxJg_3hJ979hq8P-38" source="_GJ2NRxJg_3hJ979hq8P-81" target="dHhZXid-f-7BU7orb2X_-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHhZXid-f-7BU7orb2X_-9" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1.066;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;" edge="1" parent="_GJ2NRxJg_3hJ979hq8P-38" source="_GJ2NRxJg_3hJ979hq8P-81" target="dHhZXid-f-7BU7orb2X_-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="111" y="690" />
-              <mxPoint x="111" y="690" />
+              <mxPoint x="230" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -319,6 +340,15 @@
         </mxCell>
         <mxCell id="_GJ2NRxJg_3hJ979hq8P-85" value="Change points of membership" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=134;dashed=0;whiteSpace=wrap;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;strokeWidth=3;" parent="_GJ2NRxJg_3hJ979hq8P-38" vertex="1">
           <mxGeometry x="75" y="730" width="143.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dHhZXid-f-7BU7orb2X_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="_GJ2NRxJg_3hJ979hq8P-38" source="dHhZXid-f-7BU7orb2X_-5" target="_GJ2NRxJg_3hJ979hq8P-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHhZXid-f-7BU7orb2X_-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="_GJ2NRxJg_3hJ979hq8P-38">
+          <mxGeometry x="94.99999999999955" y="630" width="5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dHhZXid-f-7BU7orb2X_-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;" vertex="1" parent="_GJ2NRxJg_3hJ979hq8P-38">
+          <mxGeometry x="16.25" y="400" width="5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_GJ2NRxJg_3hJ979hq8P-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" parent="_GJ2NRxJg_3hJ979hq8P-35" source="_GJ2NRxJg_3hJ979hq8P-45" target="_GJ2NRxJg_3hJ979hq8P-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -371,22 +401,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_GJ2NRxJg_3hJ979hq8P-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="_GJ2NRxJg_3hJ979hq8P-35" source="_GJ2NRxJg_3hJ979hq8P-72" target="_GJ2NRxJg_3hJ979hq8P-61" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="595" y="470" />
-              <mxPoint x="87" y="470" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_GJ2NRxJg_3hJ979hq8P-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.837;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" parent="_GJ2NRxJg_3hJ979hq8P-35" source="_GJ2NRxJg_3hJ979hq8P-74" target="_GJ2NRxJg_3hJ979hq8P-61" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="605" y="490" />
-              <mxPoint x="95" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_GJ2NRxJg_3hJ979hq8P-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" parent="_GJ2NRxJg_3hJ979hq8P-35" source="_GJ2NRxJg_3hJ979hq8P-66" target="_GJ2NRxJg_3hJ979hq8P-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -399,16 +413,12 @@
         <mxCell id="_GJ2NRxJg_3hJ979hq8P-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="_GJ2NRxJg_3hJ979hq8P-35" source="_GJ2NRxJg_3hJ979hq8P-83" target="_GJ2NRxJg_3hJ979hq8P-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_GJ2NRxJg_3hJ979hq8P-93" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.597;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;" parent="_GJ2NRxJg_3hJ979hq8P-35" source="_GJ2NRxJg_3hJ979hq8P-81" target="_GJ2NRxJg_3hJ979hq8P-61" edge="1">
-          <mxGeometry x="-0.9142" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="790" y="460" />
-              <mxPoint x="72" y="460" />
-            </Array>
-            <mxPoint as="offset" />
+        <mxCell id="_GJ2NRxJg_3hJ979hq8P-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;entryX=-0.132;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_GJ2NRxJg_3hJ979hq8P-35" source="_GJ2NRxJg_3hJ979hq8P-95" target="dHhZXid-f-7BU7orb2X_-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="614.9999999999995" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_GJ2NRxJg_3hJ979hq8P-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.083;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" parent="_GJ2NRxJg_3hJ979hq8P-35" source="_GJ2NRxJg_3hJ979hq8P-95" target="_GJ2NRxJg_3hJ979hq8P-85" edge="1">
+        <mxCell id="dHhZXid-f-7BU7orb2X_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="_GJ2NRxJg_3hJ979hq8P-35" source="dHhZXid-f-7BU7orb2X_-8" target="_GJ2NRxJg_3hJ979hq8P-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dHhZXid-f-7BU7orb2X_-1" value="&lt;h1&gt;Data generated&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Customer&#39;s personal information&lt;/li&gt;&lt;li&gt;Payment information/history&lt;/li&gt;&lt;li&gt;Customer&#39;s buying history&lt;/li&gt;&lt;li&gt;Book sales history&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;" vertex="1" parent="1">
