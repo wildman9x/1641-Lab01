@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T10:18:49.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6in82Q_epsi2sqI9h7Yy" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T10:20:13.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dxVV4oL-oDwnNBSxBwca" version="21.0.8" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1269" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="873" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,7 +235,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_GJ2NRxJg_3hJ979hq8P-52" value="Has member card?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;" parent="_GJ2NRxJg_3hJ979hq8P-36" vertex="1">
-          <mxGeometry x="22.499999999999545" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry x="144.99999999999955" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_GJ2NRxJg_3hJ979hq8P-65" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Lexend+Exa&quot; face=&quot;Lexend Exa&quot;&gt;Credit card&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="_GJ2NRxJg_3hJ979hq8P-36" source="_GJ2NRxJg_3hJ979hq8P-61" target="_GJ2NRxJg_3hJ979hq8P-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -327,8 +327,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="265" y="195" />
-              <mxPoint x="265" y="310" />
-              <mxPoint x="63" y="310" />
+              <mxPoint x="265" y="290" />
+              <mxPoint x="185" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
