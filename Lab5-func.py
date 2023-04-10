@@ -15,7 +15,7 @@ def main():
         
 funcs = {}
 def menu_item(item_func):
-    funcs[len(funcs)] = [item_func, item_func.__doc__]
+    funcs[str(len(funcs))] = [item_func, item_func.__doc__]
 
 @menu_item
 def exit():
