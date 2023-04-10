@@ -89,13 +89,6 @@ def DeleteProduct():
             return
     print("Product not found")
 
-@menu_item
-def SumOfPrices():
-    """Sum of prices"""
-    sum = 0
-    for product in productList:
-        sum += product[2]
-    print(f'Sum of prices: {sum}')
 
 def print_menu():
     for item in funcs:
